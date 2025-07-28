@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(230, 229, 240);
+}
+.mainContainer h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(108, 80, 80);
+    color: white;
+    margin-top: 50px;
+}
+.container{
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    margin:30px auto;
+    text-align: center;
+    background-color: rgb(185, 148, 220);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(76, 47, 109);
+}
+.container h2{
+    margin: 10px;
+}
+.inputContainer #values{
+    border-radius: 5px;
+    border: none;
+    width: auto;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+button{
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 3px black;
+    margin: 14px;
+    background-color: tomato;
+    color: white;
+}
+button:hover{
+    background-color: rgb(243, 130, 110) ;
+}

@@ -74,9 +74,11 @@ button:hover{
 }
 #credit{
     border-radius: 5px;
-    margin: 10px auto;
-    margin-bottom: 0px;
+    margin: 15px auto;
+    font-size: 2vh;
+    background-color: rgb(90, 63, 120);
+    margin-bottom: 5px;
     width: fit-content;
-
-    box-shadow: inset 2px 2px 2px black;
+    text-shadow: none;
+    box-shadow: inset 1px 1px 1px black;
 }

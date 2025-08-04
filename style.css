@@ -82,3 +82,11 @@ button:hover{
     text-shadow: none;
     box-shadow: inset 1px 1px 1px black;
 }
+
+.date{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin:auto;
+    text-align: center;
+}
